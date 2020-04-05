@@ -1,0 +1,5 @@
+1.buat databse dengan nama sisfopoltek
+2. impor database
+3. letakkan file Android1 di htdocs anda
+3.cek ip anda lalu ubah pada Server.java
+4.lalu anda bisa jalankan program anda 
